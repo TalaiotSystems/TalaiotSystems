@@ -2,118 +2,136 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-    <img alt="Talaiot Systems — Sistemas digitales construidos para durar" src="assets/banner-light.svg" width="100%">
+    <img alt="Talaiot Systems — Convertimos problemas de trabajo en software que funciona" src="assets/banner-dark.svg" width="100%">
   </picture>
 </div>
 
 <p align="center">
-  <img alt="Palma, Illes Balears" src="https://img.shields.io/badge/Palma-Illes%20Balears-2E5C63?style=flat-square&labelColor=23201A">
-  <img alt="Web · E-commerce · SEO" src="https://img.shields.io/badge/Web-E--commerce%20·%20SEO-A85D2E?style=flat-square&labelColor=23201A">
-  <a href="mailto:hola@talaiotsystems.com"><img alt="hola@talaiotsystems.com" src="https://img.shields.io/badge/hola@talaiotsystems.com-6B6457?style=flat-square&labelColor=23201A"></a>
-  <img alt="Respuesta en menos de 48 h" src="https://img.shields.io/badge/Respuesta-%3C%2048%20h-2E5C63?style=flat-square&labelColor=23201A">
+  <a href="https://talaiot-systems.netlify.app/es/"><img alt="Web" src="https://img.shields.io/badge/talaiotsystems-33B4FF?style=for-the-badge&logo=googlechrome&logoColor=0B0C10&labelColor=0B0C10&color=33B4FF"></a>
+  <a href="https://talaiot-systems.netlify.app/es/contacto/"><img alt="Contacto" src="https://img.shields.io/badge/Cuéntanos%20tu%20proyecto-0B0C10?style=for-the-badge&labelColor=0B0C10&color=101219"></a>
+  <a href="https://wa.me/34691304329"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-0B0C10?style=for-the-badge&logo=whatsapp&logoColor=33B4FF&labelColor=0B0C10&color=101219"></a>
+  <a href="https://www.linkedin.com/company/talaiot-systems"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0B0C10?style=for-the-badge&logo=linkedin&logoColor=33B4FF&labelColor=0B0C10&color=101219"></a>
 </p>
 
 <br>
 
-> Los talaiots llevan más de 3.000 años en pie. Diseñamos y construimos webs y
-> sistemas digitales con la misma idea: cimientos sólidos, sin nada superfluo,
-> hechos para aguantar el paso del tiempo.
+Diseñamos, desarrollamos y mantenemos **webs y aplicaciones a medida** que eliminan
+tareas manuales, ahorran horas y hacen crecer tu negocio. Tú explicas el problema;
+nosotros lo resolvemos.
 
-Somos un estudio digital en Palma que trabaja con negocios de Baleares.
-Webs, tiendas online y los sistemas que las mantienen funcionando cuando
-nadie está mirando.
+No vendemos plantillas: partimos de cómo trabajas hoy y construimos exactamente lo
+que necesitas.
 
 <br>
 
-## Qué construimos
+<div align="center">
+
+| ⏱ Respuesta | 📦 Código | 🤝 Trato | ♾ Soporte |
+| :--: | :--: | :--: | :--: |
+| **24–48 h** | **100 % tuyo** | **1:1, sin intermediarios** | **Continuo** |
+
+</div>
+
+<br>
+
+## Qué hacemos
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-**Diseño y desarrollo web**
+**Desarrollo web a medida**
 
-<sub>Webs a medida, rápidas y claras, pensadas para que un cliente entienda en 5 segundos qué haces y por qué confiar en ti.</sub>
+<sub>Webs corporativas, landings y plataformas rápidas, seguras y fáciles de gestionar.</sub>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-**E-commerce**
+**Aplicaciones a medida**
 
-<sub>Tiendas online que no se caen en el momento del pago. Catálogo, cobros y envíos funcionando desde el primer día.</sub>
+<sub>Apps web y móviles que digitalizan y automatizan tus procesos internos.</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**Automatización de procesos**
+
+<sub>Conectamos tus herramientas y eliminamos el trabajo repetitivo que roba horas.</sub>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-**Mantenimiento y sistemas**
+**Mantenimiento y soporte**
 
-<sub>Actualizaciones, copias de seguridad y una web que sigue funcionando aunque tú no estés pendiente de ella.</sub>
+<sub>Actualizaciones, seguridad, copias y mejoras continuas. Nunca te quedas solo.</sub>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-**SEO y visibilidad local**
+**E-commerce y reservas**
 
-<sub>Que te encuentren en Google cuando alguien busca tu servicio en tu isla, no solo cuando ya conocen tu nombre.</sub>
+<sub>Tiendas online y sistemas de citas y pagos listos para vender.</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**Consultoría de producto**
+
+<sub>Te ayudamos a decidir qué construir, en qué orden y con qué tecnología.</sub>
 
 </td>
 </tr>
 </table>
+
+<p align="right"><a href="https://talaiot-systems.netlify.app/es/servicios/"><sub>Ver todos los servicios →</sub></a></p>
 
 <br>
 
 ## Cómo trabajamos
 
-| | Fase | Qué pasa |
+Un proceso claro, sin cajas negras. Sabrás en todo momento qué estamos haciendo,
+por qué y en qué punto está tu proyecto.
+
+| | | |
 | :--: | --- | --- |
-| **01** | **Descubrimiento** | Hablamos de tu negocio, tus clientes y qué necesita realmente tu web para funcionar. |
-| **02** | **Construcción** | Diseñamos y desarrollamos, con una ronda de revisión para ajustar contigo antes de publicar. |
-| **03** | **Lanzamiento** | Publicamos, y si quieres, seguimos cuidando la web cada mes para que no se quede anticuada. |
+| **01** | **Escuchamos** | Entendemos el problema real y tu forma de trabajar antes de escribir una sola línea de código. |
+| **02** | **Diseñamos** | Definimos la solución, el alcance y un presupuesto claro. Sin letra pequeña ni sorpresas. |
+| **03** | **Construimos** | Desarrollo iterativo con entregas frecuentes: ves avances reales desde el primer día. |
+| **04** | **Mantenemos** | Lanzamos, medimos y mejoramos. Cuidamos tu solución mientras tu negocio crece. |
 
 <br>
 
-## Tres cosas que no negociamos
+## Proyectos
 
-<table>
-<tr>
-<td width="33%" valign="top">
+Problemas reales, resueltos con software.
 
-### Sólido
+| Sector | Proyecto | Resultado |
+| --- | --- | --- |
+| Logística | **Panel de operaciones a medida** — sustituimos una maraña de hojas de cálculo por una aplicación central. | **−70 %** tiempo administrativo |
+| Servicios profesionales | **Portal de clientes y reservas** — web con sistema de citas y pagos integrado y automático. | **×3** reservas online |
+| Retail | **E-commerce headless** — tienda rápida y escalable conectada a su sistema de gestión. | **+45 %** conversión |
 
-Cimientos técnicos bien hechos desde el primer día, no parches que se caen a los seis meses.
-
-</td>
-<td width="33%" valign="top">
-
-### Preciso
-
-Nada de funciones de más que nadie usará. Cada elemento de tu web tiene un motivo para estar ahí.
-
-</td>
-<td width="33%" valign="top">
-
-### Cercano
-
-Trabajamos con negocios de Baleares. Conocemos el tipo de cliente al que le vendes y cómo te busca.
-
-</td>
-</tr>
-</table>
+<p align="right"><a href="https://talaiot-systems.netlify.app/es/proyectos/"><sub>Ver proyectos →</sub></a></p>
 
 <br>
 
-## Con qué trabajamos
+## Stack
+
+<sub>Tecnología moderna, mantenimiento incluido y código siempre tuyo.</sub>
 
 <p>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-23201A?style=flat-square&logo=html5&logoColor=E9E3D2">
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-23201A?style=flat-square&logo=css3&logoColor=E9E3D2">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-23201A?style=flat-square&logo=javascript&logoColor=E9E3D2">
-  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-23201A?style=flat-square&logo=wordpress&logoColor=E9E3D2">
-  <img alt="WooCommerce" src="https://img.shields.io/badge/WooCommerce-23201A?style=flat-square&logo=woocommerce&logoColor=E9E3D2">
-  <img alt="Google Apps Script" src="https://img.shields.io/badge/Apps%20Script-23201A?style=flat-square&logo=google&logoColor=E9E3D2">
-  <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-23201A?style=flat-square&logo=github&logoColor=E9E3D2">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-0B0C10?style=flat-square&logo=nextdotjs&logoColor=ECEEF2">
+  <img alt="React" src="https://img.shields.io/badge/React-0B0C10?style=flat-square&logo=react&logoColor=33B4FF">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0B0C10?style=flat-square&logo=typescript&logoColor=33B4FF">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0B0C10?style=flat-square&logo=nodedotjs&logoColor=ECEEF2">
+  <img alt="Python" src="https://img.shields.io/badge/Python-0B0C10?style=flat-square&logo=python&logoColor=ECEEF2">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0B0C10?style=flat-square&logo=postgresql&logoColor=33B4FF">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-0B0C10?style=flat-square&logo=tailwindcss&logoColor=33B4FF">
+  <img alt="React Native" src="https://img.shields.io/badge/React%20Native-0B0C10?style=flat-square&logo=react&logoColor=33B4FF">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-0B0C10?style=flat-square&logo=amazonwebservices&logoColor=ECEEF2">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-0B0C10?style=flat-square&logo=docker&logoColor=33B4FF">
 </p>
 
 <br>
@@ -122,10 +140,18 @@ Trabajamos con negocios de Baleares. Conocemos el tipo de cliente al que le vend
 
 <div align="center">
   <br>
-  <strong>¿Tienes un proyecto en mente?</strong>
+  <strong>¿Tienes un problema que el software podría resolver?</strong>
+  <br>
+  <sub>Cuéntanoslo. La primera conversación es gratis y sin compromiso.</sub>
   <br><br>
-  <a href="mailto:hola@talaiotsystems.com"><img alt="Escríbenos" src="https://img.shields.io/badge/Cuéntanos%20qué%20necesitas-2E5C63?style=for-the-badge&labelColor=2E5C63&color=2E5C63"></a>
+  <a href="https://talaiot-systems.netlify.app/es/contacto/"><img alt="Ir al formulario de contacto" src="https://img.shields.io/badge/Rellenar%20el%20formulario-33B4FF?style=for-the-badge&labelColor=33B4FF&color=33B4FF"></a>
+  &nbsp;
+  <a href="https://wa.me/34691304329?text=Hola%2C%20quiero%20agendar%20una%20llamada%20con%20Talaiot%20Systems"><img alt="Agendar una llamada por WhatsApp" src="https://img.shields.io/badge/Agenda%20una%20llamada-101219?style=for-the-badge&logo=whatsapp&logoColor=33B4FF&labelColor=101219&color=101219"></a>
   <br><br>
-  <sub>Sin compromiso, sin presión de venta · Palma, Illes Balears</sub>
+  <sub>
+    <a href="https://talaiot-systems.netlify.app/es/">talaiot-systems.netlify.app</a> ·
+    <a href="mailto:lluissoberats@gmail.com">lluissoberats@gmail.com</a> ·
+    <a href="tel:+34691304329">+34 691 304 329</a>
+  </sub>
   <br><br>
 </div>
