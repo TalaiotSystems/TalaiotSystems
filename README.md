@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <a href="https://talaiot-systems.netlify.app/es/"><img alt="Web" src="https://img.shields.io/badge/talaiotsystems-33B4FF?style=for-the-badge&logo=googlechrome&logoColor=0B0C10&labelColor=0B0C10&color=33B4FF"></a>
+  <a href="https://talaiot-systems.netlify.app/es/"><img alt="Web" src="https://img.shields.io/badge/talaiot--systems.netlify.app-0B0C10?style=for-the-badge&logo=googlechrome&logoColor=33B4FF&labelColor=0B0C10&color=101219"></a>
   <a href="https://talaiot-systems.netlify.app/es/contacto/"><img alt="Contacto" src="https://img.shields.io/badge/Cuéntanos%20tu%20proyecto-0B0C10?style=for-the-badge&labelColor=0B0C10&color=101219"></a>
   <a href="https://wa.me/34691304329"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-0B0C10?style=for-the-badge&logo=whatsapp&logoColor=33B4FF&labelColor=0B0C10&color=101219"></a>
   <a href="https://www.linkedin.com/company/talaiot-systems"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0B0C10?style=for-the-badge&logo=linkedin&logoColor=33B4FF&labelColor=0B0C10&color=101219"></a>
